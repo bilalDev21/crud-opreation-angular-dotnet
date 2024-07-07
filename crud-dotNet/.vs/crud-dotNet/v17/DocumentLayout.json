@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\crud_angular_with_dotNet\\crud-dotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3B777A-0AE4-4365-927A-C2411687C788}|crud-dotNet\\crud-dotNet.csproj|c:\\users\\user\\crud_angular_with_dotnet\\crud-dotnet\\crud-dotnet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3B777A-0AE4-4365-927A-C2411687C788}|crud-dotNet\\crud-dotNet.csproj|solutionrelative:crud-dotnet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3B777A-0AE4-4365-927A-C2411687C788}|crud-dotNet\\crud-dotNet.csproj|c:\\users\\user\\crud_angular_with_dotnet\\crud-dotnet\\crud-dotnet\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3B777A-0AE4-4365-927A-C2411687C788}|crud-dotNet\\crud-dotNet.csproj|solutionrelative:crud-dotnet\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3B777A-0AE4-4365-927A-C2411687C788}|crud-dotNet\\crud-dotNet.csproj|c:\\users\\user\\crud_angular_with_dotnet\\crud-dotnet\\crud-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3B777A-0AE4-4365-927A-C2411687C788}|crud-dotNet\\crud-dotNet.csproj|solutionrelative:crud-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\crud_angular_with_dotNet\\crud-dotNet\\crud-dotNet\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "crud-dotNet\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\crud_angular_with_dotNet\\crud-dotNet\\crud-dotNet\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "crud-dotNet\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:59:18.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\crud_angular_with_dotNet\\crud-dotNet\\crud-dotNet\\Program.cs",
+              "RelativeDocumentMoniker": "crud-dotNet\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\crud_angular_with_dotNet\\crud-dotNet\\crud-dotNet\\Program.cs",
+              "RelativeToolTip": "crud-dotNet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:43:59.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\crud_angular_with_dotNet\\crud-dotNet\\crud-dotNet\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "crud-dotNet\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User\\crud_angular_with_dotNet\\crud-dotNet\\crud-dotNet\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "crud-dotNet\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:06:38.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
